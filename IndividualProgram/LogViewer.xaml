@@ -1,0 +1,35 @@
+﻿<Window x:Class="SimpleStringEncryptor.LogViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleStringEncryptor"
+        mc:Ignorable="d"
+        Title="Log Viewer" Height="402.398" Width="646.545">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="listBox" Margin="6,10,198,6"/>
+        <Button x:Name="button" Content="Update" Margin="0,39,9,0" VerticalAlignment="Top" Click="button_Click" HorizontalAlignment="Right" Width="75" Height="62"/>
+        <ComboBox x:Name="comboBox" SelectedValuePath="Content" HorizontalAlignment="Right" Margin="0,9,5,0" VerticalAlignment="Top" Width="171" SelectionChanged="comboBox_SelectionChanged" RenderTransformOrigin="0.5,0.5" FontSize="11">
+            <ComboBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.224"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.208"/>
+                </TransformGroup>
+            </ComboBox.RenderTransform>
+            <ComboBoxItem Content="Application opened" HorizontalAlignment="Left" Width="104"/>
+            <ComboBoxItem Content="Application closed" HorizontalAlignment="Left" Width="104"/>
+            <ComboBoxItem Content="Log file created" HorizontalAlignment="Left" Width="104"/>
+            <ComboBoxItem Content="Button clicked" HorizontalAlignment="Left" Width="104"/>
+            <ComboBoxItem Content="Action completed" HorizontalAlignment="Left" Width="104"/>
+            <ComboBoxItem Content="Error" HorizontalAlignment="Left" Width="104"/>
+        </ComboBox>
+        <GroupBox x:Name="groupBox" Header="Filter options" HorizontalAlignment="Right" Margin="0,39,89,0" Width="86" Height="62" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonByType" Content="By type" Margin="0,80,115,0" VerticalAlignment="Top" RenderTransformOrigin="0.49,1.945" HorizontalAlignment="Right" Width="58"/>
+        <RadioButton x:Name="radioButtonViewAll" Content="View all" Margin="0,60,115,0" VerticalAlignment="Top" RenderTransformOrigin="0.49,1.945" HorizontalAlignment="Right" Width="60" IsChecked="True"/>
+    </Grid>
+</Window>

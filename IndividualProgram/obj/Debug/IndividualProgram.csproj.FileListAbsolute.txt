@@ -1,0 +1,42 @@
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.exe.config
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.exe
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.pdb
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.csprojResolveAssemblyReference.cache
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\MainWindow.g.cs
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\App.g.cs
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram_MarkupCompile.cache
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram_MarkupCompile.lref
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\MainWindow.baml
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.g.resources
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.Properties.Resources.resources
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.csproj.GenerateResource.Cache
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.exe
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.pdb
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.AboutBox.resources
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\LogViewer.g.cs
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\LogViewer.baml
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.exe.manifest
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.application
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.exe.manifest
+Z:\VM stuff\GDrive\OoP\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.application
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.exe.config
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.exe
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.pdb
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.exe.manifest
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.application
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.exe
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\bin\Debug\IndividualProgram.pdb
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.csprojResolveAssemblyReference.cache
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\LogViewer.g.cs
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\MainWindow.g.cs
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\App.g.cs
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram_MarkupCompile.cache
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram_MarkupCompile.lref
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\LogViewer.baml
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\MainWindow.baml
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.g.resources
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.AboutBox.resources
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.Properties.Resources.resources
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.csproj.GenerateResource.Cache
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.exe.manifest
+Z:\VM stuff\GDrive\OoP\Individuali programa\IndividualProgram\IndividualProgram\obj\Debug\IndividualProgram.application
